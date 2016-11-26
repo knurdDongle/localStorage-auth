@@ -1,0 +1,14 @@
+{
+  "name": "localStorage-auth",
+  "version": "0.0.3",
+  "description": "Библиотека для работы с токеном через localStorage",
+  "author": "Max Pashinov <max.pashinov@yandex.ru>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/brscht/localStorage-auth.git"
+  },
+  "keywords": [
+    "auth"
+  ]
+}
